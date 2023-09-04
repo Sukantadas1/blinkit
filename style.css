@@ -96,6 +96,8 @@ main {
 .section-1, .section-1 img {
     width: 100%;
 }
+
+/* Section 2 */
 .section-2 {
     margin: 0 16px;
     display: flex;
@@ -113,6 +115,8 @@ main {
     display: flex;
 }
 
+/* Section 3 */
+
 .section-3 {
     margin-top: 16px;
     display: flex;
@@ -124,6 +128,7 @@ main {
 .section-3-img img {
     width: 100%;
 }
+/* Section 4 */
 .section-4 {
     margin: 16px;
 }
@@ -138,6 +143,7 @@ main {
     overflow: auto scroll;
     gap: 20px;
 }
+/* Product card */
 .product-card {
     padding: 12px;
     width: 154px;
